@@ -1,0 +1,10 @@
+* city-hash
+
+Common Lisp implementation of Google's CityHash family of hash functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/brown/city-hash.git   |
+| commit  | 47c2366  |
+| systems | city-hash |
+|---------+-------------------------------------------|
+
